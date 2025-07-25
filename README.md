@@ -1,9 +1,19 @@
+## Archived 3rd-Party Fork
+
+This repository is an archived copy of a 3rd-party open-source project that Progress Chef contributed to.
+It was archived as part of the [Repository Standardization Initiative](https://github.com/chef-boneyard/oss-repo-standardization-2025).
+No further contributions are anticipated to be made.
+
+**Original Repository:** [dtmtec/restforce-bulk](https://github.com/dtmtec/restforce-bulk)
+
+---
 # Restforce::Bulk
 
 [![build status][1]][2]
 
 [1]: https://travis-ci.org/dtmtec/restforce-bulk.svg
 [2]: http://travis-ci.org/dtmtec/restforce-bulk
+
 
 
 Client for Salesforce Bulk API.
